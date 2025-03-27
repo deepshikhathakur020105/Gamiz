@@ -81,7 +81,7 @@ To distribute the application as an executable, we use **Inno Setup**.
 
 1. **Download the Setup**
 
-   [![Download ](https://img.shields.io/badge/Download-Setup-green?style=for-the-badge)](<https://drive.google.com/file/d/1kdqaT50f3lcqfsc1baAcDY0VY5SqnPh-/view?usp=sharing>)
+   [![Download ](https://img.shields.io/badge/Download-Setup-green?style=for-the-badge)](<https://drive.google.com/file/d/1Q3YDrWn-Xlh_30ObM7fp5UHG-vDPy3dj/view?usp=sharing>)
 
 2. **Extract and Run**
    - Extract the downloaded file.
